@@ -15,8 +15,7 @@ Firmware for Arduino / ESP-01 side for various sensors.
 
 ### Requirements
 
-- 
-[ESP8266WiFi](https://github.com/esp8266/Arduino)
+- [ESP8266WiFi](https://github.com/esp8266/Arduino)
 - [DHT](https://github.com/adafruit/DHT-sensor-library)
 
 #### Implemented endpoint examples
