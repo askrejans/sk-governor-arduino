@@ -29,5 +29,5 @@ humidity: 47
 temperature: 24
 }`
 - /humidity  `{
-humidity: 50
+humidity: 47
 }`
