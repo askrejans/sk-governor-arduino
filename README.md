@@ -20,14 +20,14 @@ Firmware for Arduino / ESP-01 side for various sensors.
 
 #### Implemented endpoint examples
 
-- /  `{
+- GET /  `{
 sensor: "ESP-01 - DHT11 - 1",
 temperature: 24,
 humidity: 47
 }` 
-- /temperature  `{
+- GET /temperature  `{
 temperature: 24
 }`
-- /humidity  `{
+- GET /humidity  `{
 humidity: 47
 }`
